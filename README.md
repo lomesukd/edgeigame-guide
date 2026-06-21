@@ -1,2 +1,14 @@
 # edgeigame-guide
-HTML page archive and documentation
+
+自动生成页面存放处
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 维护状态
+
+仓库会随发布任务更新，若页面不可访问请以 GitHub 文件为准核对。
